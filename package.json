@@ -1,0 +1,15 @@
+{
+  "name": "kishor-langote-portfolio-site",
+  "version": "1.0.0",
+  "description": "this is demo website to showcase my portfolio and small project",
+  "main": "Quize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
